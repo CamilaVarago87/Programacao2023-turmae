@@ -2,18 +2,3 @@ header {
     background-color: #383D58;
     color: white;
     }
-    .conteudoprincipal{
-        background-image: linear-gradient(#412CA3, #77723C);
-        color: aqua;
-    }
-.imagem-alura{
-    width: 350px;
-    display: inline;
-    position: relative;
-    margin-left: 150px;
-}
-.conteudo-grupo{
-    padding-left: 300px;
-    padding-top: 150px;
-    font-size: 75px;
-}
