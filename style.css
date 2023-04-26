@@ -2,3 +2,49 @@ header {
     background-color: #383D58;
     color: white;
     }
+    .conteudoprincipal{
+        background-image: linear-gradient(#412CA3, #77723C);
+        color: aqua;
+    }
+.imagem-alura{
+    width: 350px;
+    display: inline;
+    position: relative;
+    margin-left: 150px;
+}
+.conteudo-grupo{
+    padding-left: 300px;
+    padding-top: 150px;
+    font-size: 75px;
+}
+body{
+    font-family: sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.cabeçalhoprincipal {
+    background-color: #442FA4;
+    color: white;
+}
+.logo{
+    width: 250px
+}
+.secaocursistas{
+    background-color: #A898F4;
+}
+.titulo-cursistas{
+    font-family: tohoma;
+    font-size: 85px;
+    color: rgb(4, 4, 4);
+    text-align: center;
+}
+.foto-cursistas{
+    width: 180px;
+}
+.nome-cursistas{
+    text-align: center;
+}
+.todoscursistasdiv{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20%;
+}
+
